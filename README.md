@@ -1,2 +1,2 @@
 # scratches_moves
-Calculate winning and losing positions (and moves) for Scratches.
+Calculate all the winning and losing positions (and moves) for Scratches.
